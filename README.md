@@ -10,6 +10,7 @@
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Missy-SS&theme=midnight_purple) 
 
-https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=Linkedin
 
-https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmelissa-santos-da-silva-a30b123b8%2F
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmelissa-santos-da-silva-a30b123b8%2F">    
+<img alt="Static Badge" src="https://img.shields.io/badge/Gmail-5A189A?style=for-the-badge&logo=Gmail&link=%3Ca%20href%3D%22mailto%3Amelissilva123%40gmail.com%22%3EEntre%20em%20contato%3C%2Fa%3E">
+
