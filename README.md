@@ -1,6 +1,9 @@
-https://capsule-render.vercel.app/api?type=waving&height=110&color=5A189A
+
    
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans-Serif+de+Alta+Legibilidade+&pause=1000&color=8824E892&background=E7E7E700&width=435&lines=Entusiasta+em+desenvolvimento+Back-end+Python+%7C+Entusiasta+de+desenvolvimento+Front-end+HTML+e+CSS)](https://git.io/typing-svg)
+
+   [![My Skills](https://skillicons.dev/icons?i=python,github,git)](https://skillicons.dev)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Missy-SS&theme=midnight_purple)      ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Missy-SS&theme=midnight_purple) 
 
