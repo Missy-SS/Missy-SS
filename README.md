@@ -5,7 +5,7 @@
 
    [![My Skills](https://skillicons.dev/icons?i=python,github,git)](https://skillicons.dev)
 
-   <img width="1866" height="540" alt="github-contributions_1 5x_postspark_2026-04-18_10-58-46" src="https://github.com/user-attachments/assets/dbd86428-821d-445c-9e9e-412b1d3d92b1" />
+  
 
 
 
