@@ -1,33 +1,29 @@
 
+<h1>Melissa Santos</h1>
+<h2>Aspirante a desenvolvedora back-end</h2>
 
+
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" href="" />
+  <img width="12" />
+</div>
+
+  
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
    
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sans-Serif+de+Alta+Legibilidade+&pause=1000&color=8824E892&background=E7E7E700&width=435&lines=Desenvolvimento+Back-end)](https://git.io/typing-svg)
-
-   [![My Skills](https://skillicons.dev/icons?i=python,github,git)](https://skillicons.dev)
-
-  
-
-
-
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Missy-SS&theme=midnight_purple)      ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Missy-SS&theme=midnight_purple) 
-
-
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Missy-SS&theme=midnight_purple)       ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Missy-SS&theme=midnight_purple&utcOffset=8) 
-
-
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Missy-SS&theme=midnight_purple) 
-
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Missy-SS/Missy-SS/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Missy-SS/Missy-SS/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Missy-SS/Missy-SS/output/snake.svg">
-</picture>
-
-
 
 
   
