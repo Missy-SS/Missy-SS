@@ -1,7 +1,7 @@
 
 <h1>Melissa Santos</h1>
 <h2>Aspirante a desenvolvedora back-end</h2>
-<p>Acabo de concluir o primeiro semestre na faculdade</p><br>
+<p>Acabo de concluir o primeiro semestre na faculdade</p>
 <p>Procuro desenvolver minhas habilidades na área de tecnologia. Ao mesmo tempo, busco uma oportunidade de estágio para adquirir experiência e iniciar minha carreira no mundo tech.</p><br>
 
 <div data-importer="image" align="center">
