@@ -22,6 +22,16 @@
   <img width="12" />
 </div><br>
 
+<div data-importer="techs" class="databases" align="center">
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="30" alt="SQLite logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="30" alt="Microsoft Server logo" />
+  <img width="12" />
+</div><br>
+
+
   
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
