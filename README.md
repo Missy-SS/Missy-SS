@@ -3,13 +3,13 @@
   <img src="assets/header.png" alt="Banner" width="100%"/>
 </div><br><br>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas (ADS). Focada em fortalecer minha base lógica e em construir aplicações back-end robustas. Busco uma oportunidade de estágio para aplicar meus conhecimentos em projetos reais, aprender com profissionais da área e dar meus primeiros passos no mercado de tecnologia.</p><br>
+<div align="center">
 
+### 𝄞⨾𓍢ִ໋♬⋆.˚𝄢ᡣ𐭩   Sobre mim   ᡣ𐭩𝄢˚.⋆♬𓍢ִ໋⨾𝄞
 
-<!-- <div data-importer="image" align="center">
-  <img data-importer="image" height="250" width="1000" src="https://i.pinimg.com/1200x/48/b3/28/48b328850078158308a7b0cf36ab8732.jpg"  />
-</div><br> -->
+Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas (ADS). Focada em fortalecer minha base lógica e em construir aplicações back-end robustas. Busco uma oportunidade de estágio para aplicar meus conhecimentos em projetos reais, aprender com profissionais da área e dar meus primeiros passos no mercado de tecnologia.
 
+</div><br>
 
 <div data-importer="techs" align="center">
   
