@@ -65,6 +65,32 @@ Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas (ADS). Focada 
   </picture>
 </div>
 
+<div class="titulo_repo" align="left">
+<h3> ✎﹏﹏﹏﹏ Meus repositórios de estudo e projetos  </h3>
+</div>
+
+<div class="pinned" align="left"><br>
+
+
+  <a href="https://github.com/Missy-SS/Estudos-Python">
+    <img src="https://img.shields.io/badge/Estudos--Python-Projetos%20e%20exerc%C3%ADcios%20em%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a><br>
+  <br />
+
+  <a href="https://github.com/Missy-SS/Estudos-C">
+    <img src="https://img.shields.io/badge/Estudos--C-Projetos%20de%20linguagem%20C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </a><br>
+  <br />
+
+  <a href="https://github.com/Missy-SS/HTML5">
+    <img src="https://img.shields.io/badge/HTML5-Pr%C3%A1ticas%20Web%20(HTML%2C%20CSS%2C%20JS)-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a><br>
+  <br />
+
+  <a href="https://github.com/Missy-SS/Java-Alura">
+  <img src="https://img.shields.io/badge/JAVA-PROJETOS%20E%20ESTUDOS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+  </a>
+</div>
 
   
 
