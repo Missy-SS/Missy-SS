@@ -2,7 +2,7 @@
 <h1 align="center">₍^. .^₎⟆  Melissa Santos  ₍^. .^₎⟆</h1>
 <h2 align="center">Estudante de ADS | Desenvolvedora Back-end em formação</h2><br>
 
-<p>Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas (ADS). Focada em fortalecer minha base lógica e em construir aplicações back-end robustas. Busco uma oportunidade de estágio para aplicar meus conhecimentos em projetos reais, aprender com profissionais da área e dar meus primeiros passos no mercado de tecnologia.</p><br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Cursando o 2º semestre de Análise e Desenvolvimento de Sistemas (ADS). Focada em fortalecer minha base lógica e em construir aplicações back-end robustas. Busco uma oportunidade de estágio para aplicar meus conhecimentos em projetos reais, aprender com profissionais da área e dar meus primeiros passos no mercado de tecnologia.</p><br>
 
 
 <div data-importer="image" align="center">
